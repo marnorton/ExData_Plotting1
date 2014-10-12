@@ -1,3 +1,12 @@
+## Peer Assessment 1
+This is my peer assessment 1 for Exploratory Data Analysis, part of the Data Science Specialization on Coursera. 
+
+This was forked from rdpeng's ExData_Plotting1.
+
+Enjoy
+
+Assessment instructions below:
+
 ## Introduction
 
 This assignment uses data from
